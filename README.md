@@ -2,7 +2,7 @@
 25 Mini Project of Python
 <h1 align="center">Hi 👋, I'm Anon</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
-<img src="" alt="img" srcset="">
+<img src="https://tenor.com/en-IN/view/kroppa-digital-socialmedia-mothersday-developer-gif-21768300" alt="img" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anon7438&label=Profile%20views&color=0e75b6&style=flat" alt="anon7438" /> </p>
 
@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **react, Python , Javascript**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
